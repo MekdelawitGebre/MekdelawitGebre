@@ -1,5 +1,5 @@
-👋 Hi, I’m Mekdelawit Gebre.
-Incoming web developer
+![Mekdelawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekdelawit&show_icons=true&theme=radical)
+
 
 
 
