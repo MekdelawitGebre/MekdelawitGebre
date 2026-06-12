@@ -30,39 +30,6 @@ Junior AI/ML Developer | Full-Stack Developer
   </a>
 </p>
 
-<hr>
-
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MekdelawitGebre&show_icons=true&theme=tokyonight" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MekdelawitGebre&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MekdelawitGebre&theme=tokyonight" />
-</p>
-
-<hr>
-
-<h2>Current Focus</h2>
-
-- AI/ML Applications
-- Flutter Mobile Development
-- Full-Stack Web Development
-- Data Analysis and Visualization
-
-<hr>
-
-<h2>Goals</h2>
-
-- Build impactful AI solutions
-- Contribute to Open Source
-- Learn MLOps and Cloud Deployment
-- Grow as a Full-Stack Engineer
-
-<hr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MekdelawitGebre&label=Profile%20Views&color=0e75b6&style=flat" />
